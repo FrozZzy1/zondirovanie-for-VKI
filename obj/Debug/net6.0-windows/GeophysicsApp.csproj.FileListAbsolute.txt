@@ -1,0 +1,237 @@
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\GeophysicsApp.exe
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\GeophysicsApp.deps.json
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\GeophysicsApp.runtimeconfig.json
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\GeophysicsApp.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\ref\GeophysicsApp.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\GeophysicsApp.pdb
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\ВКИ\3kurs\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.csproj.AssemblyReference.cache
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\AddEditMeasurementWindow.g.cs
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\AddEditPicketWindow.g.cs
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\AddEditProfileWindow.g.cs
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\AddEditSectorWindow.g.cs
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\ProfileWindow.g.cs
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\SectorWindow.g.cs
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\App.g.cs
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp_MarkupCompile.cache
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp_MarkupCompile.lref
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\AddEditMeasurementWindow.baml
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\AddEditPicketWindow.baml
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\AddEditProfileWindow.baml
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\AddEditSectorWindow.baml
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\MainWindow.baml
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\ProfileWindow.baml
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\SectorWindow.baml
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.g.resources
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.AssemblyInfoInputs.cache
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.AssemblyInfo.cs
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.csproj.CoreCompileInputs.cache
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.csproj.CopyComplete
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.dll
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\ref\GeophysicsApp.dll
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.pdb
+D:\ВКИ\3kurs\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.genruntimeconfig.cache
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\GeophysicsApp.exe
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\GeophysicsApp.deps.json
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\GeophysicsApp.runtimeconfig.json
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\GeophysicsApp.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\GeophysicsApp.pdb
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.csproj.AssemblyReference.cache
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\AddEditMeasurementWindow.g.cs
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\AddEditPicketWindow.g.cs
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\AddEditProfileWindow.g.cs
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\AddEditSectorWindow.g.cs
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\ProfileWindow.g.cs
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\SectorWindow.g.cs
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp_MarkupCompile.cache
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp_MarkupCompile.lref
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\AddEditMeasurementWindow.baml
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\AddEditPicketWindow.baml
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\AddEditProfileWindow.baml
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\AddEditSectorWindow.baml
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\ProfileWindow.baml
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\SectorWindow.baml
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.g.resources
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.AssemblyInfoInputs.cache
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.AssemblyInfo.cs
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.csproj.CoreCompileInputs.cache
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.csproj.CopyComplete
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\refint\GeophysicsApp.dll
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.pdb
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.genruntimeconfig.cache
+C:\Users\DenisovaKI\source\repos\GeophysicsApp\obj\Debug\net6.0-windows\ref\GeophysicsApp.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.csproj.AssemblyReference.cache
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\AddEditMeasurementWindow.g.cs
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\AddEditPicketWindow.g.cs
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\AddEditProfileWindow.g.cs
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\AddEditSectorWindow.g.cs
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\ProfileWindow.g.cs
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\SectorWindow.g.cs
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\App.g.cs
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp_MarkupCompile.cache
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp_MarkupCompile.lref
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\refint\GeophysicsApp.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.pdb
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\GeophysicsApp.exe
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\GeophysicsApp.deps.json
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\GeophysicsApp.runtimeconfig.json
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\GeophysicsApp.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\GeophysicsApp.pdb
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\AddEditMeasurementWindow.baml
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\AddEditPicketWindow.baml
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\AddEditProfileWindow.baml
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\AddEditSectorWindow.baml
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\MainWindow.baml
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\ProfileWindow.baml
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\SectorWindow.baml
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.g.resources
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.AssemblyInfoInputs.cache
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.AssemblyInfo.cs
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.csproj.CoreCompileInputs.cache
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\Geophysi.A872DA14.Up2Date
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\GeophysicsApp.genruntimeconfig.cache
+D:\прогер.net\ВКИ\3 курс\3.2\Агеенков\GeophysicsApp\obj\Debug\net6.0-windows\ref\GeophysicsApp.dll

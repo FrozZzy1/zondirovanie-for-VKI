@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6e349f32-9d80-4ed6-ad85-88c45558c274": {
+      "ProjectGuid": "6e349f32-9d80-4ed6-ad85-88c45558c274",
+      "DisplayName": "GeophysicsApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
